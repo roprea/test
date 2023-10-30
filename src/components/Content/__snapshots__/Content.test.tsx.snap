@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content Basic component behaviour should match snapshot 1`] = `
+<div>
+  <main>
+    <div>
+      Dashboard Page
+    </div>
+  </main>
+</div>
+`;
